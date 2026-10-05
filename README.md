@@ -8,15 +8,22 @@
   <!-- TODO: add website badge once mimscript.com is live -->
 </p>
 
-I build Django backends and REST APIs, including real-time systems on WebSockets and Redis. I care about correctness: explicit state machines, row-level locking where concurrency matters, tests that fail when the safeguard is removed, and APIs with stable error contracts and OpenAPI docs.
+I'm a software engineer who builds and ships complete systems, end to end. My core is Python backends (Django, FastAPI, REST and real-time APIs), and around it I handle what a product actually needs: infrastructure and CI, payment and SMS integrations, AI-powered features, and the frontend when needed. I care about correctness and reliability: tests that catch real bugs, secure defaults, and code the next developer can read.
 
 I work as a software engineer and also take on freelance projects under the name MiM Script.
 
-## Highlights
+## What I do
 
-- **Concurrency-safe Django module:** lead SLA & outreach engine with row-level locking and 130 tests, including concurrency races on PostgreSQL ([leads](https://github.com/Mohammad78SD/leads)).
-- **Security-hardened a Django HR system:** fixed an OTP login bypass, locked down device and admin endpoints, moved all secrets to env, added 64 tests and CI ([mahsa](https://github.com/Mohammad78SD/mahsa)).
-- **Tour booking REST API:** OTP + JWT auth with throttling and attempt limits, validated reservations, 57 tests and CI ([rahorasm-backend](https://github.com/Mohammad78SD/rahorasm-backend)).
+- **Backend & APIs:** Django, DRF and FastAPI; clean REST and GraphQL APIs with OpenAPI docs and JWT/OTP auth
+- **Real-time systems:** WebSockets, Django Channels and Redis for live seat maps, notifications and dashboards
+- **AI integrations:** AI-based recommendations inside products, such as suggesting VM resource sizes from a user's actual usage
+- **Background jobs & data:** Celery, PostgreSQL, reports and Excel/PDF exports
+- **E-commerce:** Saleor-based backends, WooCommerce stores, payment-gateway and SMS integrations
+- **DevOps & infrastructure:** Docker, Nginx, CI with GitHub Actions, Terraform, VMware vSphere and self-managed Linux VPS (Ubuntu, Cloudflare)
+- **Frontend & mobile when needed:** Vue / Nuxt and React connected to my APIs; Android apps in Kotlin
+- **WordPress / WooCommerce:** custom plugins, integrations (Telegram, Cloudflare Workers), performance and security maintenance
+- **Quality & security:** tests that catch concurrency bugs, code audits, secret clean-up, hardening of existing systems
+- **Technical consulting:** I research the options for each need and recommend the best fit (stack, architecture, infrastructure) before anything gets built
 
 ## Featured projects
 
