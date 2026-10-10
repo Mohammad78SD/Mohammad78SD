@@ -3,9 +3,9 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mohammadsd/"><img src="https://img.shields.io/badge/LinkedIn-mohammadsd-1B4441?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:mohammadsd2000@gmail.com"><img src="https://img.shields.io/badge/Email-mohammadsd2000%40gmail.com-1B4441?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
-  <!-- TODO: add website badge once mimscript.com is live -->
+  <a href="https://www.linkedin.com/in/mohammadsd/"><img src="https://img.shields.io/badge/LinkedIn-mohammadsd-1F3A93?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:mohammadsd2000@gmail.com"><img src="https://img.shields.io/badge/Email-mohammadsd2000%40gmail.com-1F3A93?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://mimscript.com"><img src="https://img.shields.io/badge/Website-mimscript.com-1F3A93?style=flat-square&logo=googlechrome&logoColor=white" alt="Website"></a>
 </p>
 
 I'm a software engineer who builds and ships complete systems, end to end. My core is Python backends (Django, FastAPI, REST and real-time APIs), and around it I handle what a product actually needs: infrastructure and CI, payment and SMS integrations, AI-powered features, and the frontend when needed. I care about correctness and reliability: tests that catch real bugs, secure defaults, and code the next developer can read.
